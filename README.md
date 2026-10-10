@@ -4,7 +4,7 @@ _Simple blog starter with [11ty](https://11ty.io)._
 
 Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gatsby-blog).
 
-## What you have
+## What you havec
 
 - A simple static site generator with [Eleventy](https://11ty.io)
 - Structured content using [Sanity.io](https://www.sanity.io)
